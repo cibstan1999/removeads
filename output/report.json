@@ -1,10 +1,10 @@
 {
   "allowlist_removed": 0,
   "blocklist_added": 0,
-  "deduplicated_rules": 202054,
-  "final_rules": 202054,
-  "generated_at": "2026-07-26T00:47:27Z",
-  "merged_before_deduplication": 437313,
+  "deduplicated_rules": 202076,
+  "final_rules": 202076,
+  "generated_at": "2026-07-26T00:55:35Z",
+  "merged_before_deduplication": 437340,
   "source_results": [
     {
       "raw_lines": 169210,
@@ -19,10 +19,10 @@
       "valid_domains": 108820
     },
     {
-      "raw_lines": 160230,
+      "raw_lines": 160257,
       "status": "success",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
-      "valid_domains": 159283
+      "valid_domains": 159310
     }
   ],
   "successful_sources": 3
