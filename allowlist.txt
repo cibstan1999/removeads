@@ -1,0 +1,1 @@
+# One domain per line. The domain and all of its subdomains will be excluded.

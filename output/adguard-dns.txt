@@ -1,0 +1,2 @@
+! removeads DNS advertising rules
+! Awaiting the first successful automated build; DO NOT EDIT MANUALLY
