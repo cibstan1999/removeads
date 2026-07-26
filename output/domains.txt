@@ -1,5 +1,5 @@
 # removeads DNS advertising rules
-# Generated at (UTC): 2026-07-26T00:43:08Z
+# Generated at (UTC): 2026-07-26T00:47:27Z
 # Successful sources: 3
 # Total rules: 202054
 # DO NOT EDIT MANUALLY
