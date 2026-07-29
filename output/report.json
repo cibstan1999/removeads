@@ -1,16 +1,16 @@
 {
   "allowlist_removed": 0,
   "blocklist_added": 0,
-  "deduplicated_rules": 202860,
-  "final_rules": 202860,
-  "generated_at": "2026-07-28T21:04:53Z",
-  "merged_before_deduplication": 439135,
+  "deduplicated_rules": 203119,
+  "final_rules": 203119,
+  "generated_at": "2026-07-29T20:53:07Z",
+  "merged_before_deduplication": 439670,
   "source_results": [
     {
-      "raw_lines": 169750,
+      "raw_lines": 170024,
       "status": "success",
       "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/reject.txt",
-      "valid_domains": 169750
+      "valid_domains": 170024
     },
     {
       "raw_lines": 109315,
@@ -19,10 +19,10 @@
       "valid_domains": 109311
     },
     {
-      "raw_lines": 161023,
+      "raw_lines": 161285,
       "status": "success",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
-      "valid_domains": 160074
+      "valid_domains": 160335
     }
   ],
   "successful_sources": 3
